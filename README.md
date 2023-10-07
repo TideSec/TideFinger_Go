@@ -4,7 +4,7 @@
 
 一个Go版(更强大)的TideFinger指纹识别工具，可对web和主机指纹进行识别探测，整合梳理互联网指纹2.3W余条，在效率和指纹覆盖面方面进行了平衡和优化。
 
-之前使用Python实现了一个指纹识别程序——TideFinger，并集成了互联网上众多开源指纹，指纹库公开在Github上（https://github.com/TideSec/TideFinger），并提供了一个免费在线的指纹检测平台http://finger.tidesec.com。
+之前使用Python实现了一个指纹识别程序——TideFinger，并集成了互联网上众多开源指纹，指纹库公开在[TideFinger](https://github.com/TideSec/TideFinger)，并提供了一个免费在线的指纹检测平台——潮汐指纹[http://finger.tidesec.com](http://finger.tidesec.com)，目前已积累用户3万余人。
 
 近两年发现很多安全工具都开始转向使用Golang开发，Go在并发和性能方面有着天生的优势而且语法也更简洁，所以也把指纹识别重新用Golang实现了一下。
 
