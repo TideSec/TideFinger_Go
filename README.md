@@ -31,7 +31,7 @@ TideFinger -u http://www.tidesec.com -pd   探测指定url的指纹，检测poc�
 
 由于部分功能还在完善（加载外部指纹及指纹自定义功能等），目前暂不提供源码，我这里打包了windows/mac/linux三个版本的TideFinger供大家下载。因为M1版本的没法压缩，所以文件略大。本次编译的均为x64版本，有需要x86版本的可以私信。
 
-待指纹功能全部完善后，源码会在知识星球“Tide安全攻防”开放。后续版本更新和Bug反馈也会第一时间在星球进行更新。
+待指纹功能全部完善后，源码会在知识星球“Tide安全攻防”开放。**后续版本更新和Bug反馈也会第一时间在星球进行更新。**
 
 <div align=center><img src=images/zsxq.png width=50% ></div>
 
